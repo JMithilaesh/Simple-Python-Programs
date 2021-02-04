@@ -1,2 +1,2 @@
 # Simple-Python-Programs
-A collection of simple python programs for a beginner level programmer.
+A collection of simple python programming questions and solutions for a beginner level coder.
